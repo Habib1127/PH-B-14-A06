@@ -4,13 +4,13 @@
 
 FitLog is a dark, no-nonsense gym companion. Browse a library of twelve lifts, open any workout for specs and step-by-step instructions, lock it into today's plan or save it for later, and watch your minutes and calories add up.
 
-- **Live link:** _add your deployed URL here_
-- **Repository:** _add your GitHub URL here_
+- Live link: http://localhost:3000
+
 
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
-| --- | --- |
+|
 | Next.js 15 (App Router) | UI, routing, dynamic `/workout/[id]` route, custom 404 |
 | React 19 | Components, context state |
 | Tailwind CSS v4 | Styling and responsive layout |
